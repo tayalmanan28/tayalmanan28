@@ -9,9 +9,9 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 **More About Me**:
 
-- Currently a PhD student at Robert Bosch Center for Cyber Physical Systems, IISc Banglore
+- Currently a PhD student at [Robert Bosch Center for Cyber Physical Systems, IISc Banglore](https://cps.iisc.ac.in/)
 
-- 👯 I'm also involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
+- I'm also involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
 
 **Contact Me**:
 
