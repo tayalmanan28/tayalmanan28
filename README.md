@@ -1,5 +1,5 @@
 
-<img align="left" src=""> 
+<img align="left" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif"> 
 
 ### Hi there 👋
 
@@ -17,7 +17,7 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manantayal@iisc.ac.in)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
 
 
 ![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true)
