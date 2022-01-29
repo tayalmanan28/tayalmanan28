@@ -16,7 +16,7 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 **Contact Me**:
 
-[website](https://tayalmanan28.github.io)
+[![website](https://www.kindpng.com/imgv/hhbJJiR_world-wide-web-icon-website-logo-vector-free/)](https://tayalmanan28.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manantayal@iisc.ac.in)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
