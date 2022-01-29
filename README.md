@@ -3,18 +3,20 @@
 
 ### Hi there 👋
 
-I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/), who is an aspiring robotics researcher and willing to contribute significantly in robotics and AI :innocent:
+I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/), an aspiring robotics researcher and willing to contribute significantly in robotics and AI :innocent:
 
 <br>
 
 **More About Me**:
 
-- Currently a PhD student at [Robert Bosch Center for Cyber Physical Systems, IISc Banglore](https://cps.iisc.ac.in/)
+- Currently a PhD student at [**Stoch Lab**](https://stochlab.github.io/) ([Robert Bosch Center for Cyber Physical Systems, IISc Banglore](https://cps.iisc.ac.in/) )  
+-  My Research Interests are in the field of Legged Robotics, Robot Learning and Control.
 
-- I'm involved with a team of legged robot enthusiasts at [**Stoch Lab**](https://stochlab.github.io/)  
+- I graduated from IIT Bombay in 2021  with a Bachelor's Degree in Mechanical Engineering
 
 **Contact Me**:
 
+[![website]] (https://tayalmanan28.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manantayal@iisc.ac.in)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
