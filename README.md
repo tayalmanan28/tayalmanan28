@@ -18,7 +18,8 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 [![website](https://img.shields.io/badge/website-red?style=for-the-badge&logo=Website&logoColor=white)](https://tayalmanan28.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manantayal@iisc.ac.in)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:manantayal@iisc.ac.in)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robotics.tayalmanan@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
 
 
