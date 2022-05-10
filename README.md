@@ -25,14 +25,12 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 
 ## 📈 Stats
-<p align="centre">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark">
   
 </p>
-<p align="centre">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
-</p>
+
 <!---
 ![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark)
 ![tayalmanan28's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark)
@@ -40,3 +38,7 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 --->
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
+</p>
