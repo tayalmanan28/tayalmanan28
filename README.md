@@ -40,6 +40,6 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 
 <p align="center">
-  <img width="48%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
+  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
 </p>
