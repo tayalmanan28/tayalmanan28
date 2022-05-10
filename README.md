@@ -23,8 +23,8 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
 
 
-![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true)
-![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact)
+![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark&line_height=27)
+![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark&line_height=27)
 
 <!---
 tayalmanan28/tayalmanan28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
