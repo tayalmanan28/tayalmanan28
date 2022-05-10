@@ -25,9 +25,9 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 
 ## 📈 Stats
-![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark)
-![tayalmanan28's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark&line_height=27)
-![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark&line_height=27)
+![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark&line_height=24)
+![tayalmanan28's github stats](https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark&line_height=24)
+![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark&line_height=24)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
