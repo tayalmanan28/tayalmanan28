@@ -22,7 +22,7 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robotics.tayalmanan@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
 
-<img src="https://activity-graph.herokuapp.com/graphusername=tayalmanan28&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 ![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark&line_height=27)
 ![tayalmanan28's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark&line_height=27)
