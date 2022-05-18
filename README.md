@@ -15,9 +15,8 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 - I graduated from IIT Bombay in 2021  with a Bachelor's Degree in Mechanical Engineering
 
 **Contact Me**:
-
-[![website](https://img.shields.io/badge/website-red?style=for-the-badge&logo=Website&logoColor=white)](https://tayalmanan28.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
+[![website](https://img.shields.io/badge/website-red?style=for-the-badge&logo=Website&logoColor=white)](https://tayalmanan28.github.io)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:manantayal@iisc.ac.in)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robotics.tayalmanan@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
