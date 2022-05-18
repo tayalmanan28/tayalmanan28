@@ -14,6 +14,8 @@ I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/
 
 - I graduated from IIT Bombay in 2021  with a Bachelor's Degree in Mechanical Engineering
 
+
+
 **Contact Me**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
