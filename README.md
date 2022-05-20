@@ -3,16 +3,13 @@
 
 ### Hi there 👋
 
-I'm a PhD student at [Indian Institute of Science, Bangalore](http://iisc.ac.in/), an aspiring robotics researcher and willing to contribute significantly in robotics and AI :innocent:
-
+I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical Systems (RBCCPS)](https://cps.iisc.ac.in/) in [Indian Institute of Science(IISc), Bangalore](http://iisc.ac.in/), working on Control and Design of Walking Robots in the [Stochastic Robotics Lab](http://www.stochlab.com/) under the guidance of Prof. Shishir N. Y. Kolathaya and Prof. Ashitava Ghoshal and collaborating with Prof. Ayonga Hereid (Ohio State University)
 <br>
+- Currently, my work is focussed towards the development of a lightweight control framework for robust proprioceptive bipedal walking.
 
-**More About Me**:
-
-- Currently a PhD student at [**Stoch Lab**](https://stochlab.github.io/) ([Robert Bosch Center for Cyber Physical Systems, IISc Banglore](https://cps.iisc.ac.in/) )  
--  My Research Interests are in the field of Legged Robotics, Robot Learning and Control.
-
-- I graduated from IIT Bombay in 2021  with a Bachelor's Degree in Mechanical Engineering
+- I completed my B.Tech in Mechanical Engineering from Indian Institute of Technology Bombay (IITB). 
+- I actively work in the fields of Robotics, Controls and Learning. 
+- In my undergraduate years, I have also worked on various robotics projects like control of Quadruped Bot, Force controlled gripper, FLORENCE (A Robotic Nurse), etc.
 
 
 
