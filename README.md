@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif"> 
+<img align="center" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif"> 
 
 
 ### Hi there 👋
