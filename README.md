@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical Systems (RBCCPS)](https://cps.iisc.ac.in/) in [Indian Institute of Science(IISc), Bangalore](http://iisc.ac.in/), working on Control and Design of Walking Robots in the [Stochastic Robotics Lab](http://www.stochlab.com/) under the guidance of Prof. Shishir N. Y. Kolathaya and Prof. Ashitava Ghoshal and collaborating with Prof. Ayonga Hereid (Ohio State University)
+I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical Systems (RBCCPS)](https://cps.iisc.ac.in/) in [Indian Institute of Science(IISc), Bangalore](http://iisc.ac.in/), working on Control and Design of Walking Robots in the [Stochastic Robotics Lab](http://www.stochlab.com/) under the guidance of Prof. [Shishir N. Y. Kolathaya](http://www.shishirny.com/) and Prof. [Ashitava Ghoshal](https://mecheng.iisc.ac.in/people/ashitava-ghosal/) and collaborating with Prof. [Ayonga Hereid](https://mae.osu.edu/people/hereid.1) ([Ohio State University](https://engineering.osu.edu/))
 <br>
 - Currently, my work is focussed towards the development of a lightweight control framework for robust proprioceptive bipedal walking.
 
