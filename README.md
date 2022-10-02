@@ -44,3 +44,6 @@ I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical System
   <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
 </p>
+
+## Holopin Badges
+[![@tayalmanan28's Holopin board](https://holopin.io/api/user/board?user=tayalmanan28)](https://holopin.io/@tayalmanan28)
