@@ -41,7 +41,7 @@ I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical System
 
 
 <p align="center">
-  <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
+<!--   <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue"> -->
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
 </p>
 
