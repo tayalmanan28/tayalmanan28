@@ -8,7 +8,7 @@ I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical System
 
 <img align="center" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif">
 
-- Currently, my work is focussed towards the development of a lightweight control framework for robust proprioceptive bipedal walking.
+- Currently, my work is focussed towards the development of Safety Critical Controls for Walking Robots locomtion and manipulation.
 - I completed my B.Tech in Mechanical Engineering from [Indian Institute of Technology Bombay(IITB)](https://www.iitb.ac.in/). 
 - I actively work in the fields of Robotics, Controls and Learning. 
 - In my undergraduate years, I have also worked on various robotics projects like control of Quadruped Bot, Force controlled gripper, FLORENCE (A Robotic Nurse), etc.
