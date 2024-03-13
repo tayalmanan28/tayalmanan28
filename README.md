@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical Systems(RBCCPS)](https://cps.iisc.ac.in/) in [Indian Institute of Science(IISc), Bangalore](http://iisc.ac.in/), working on Safety Crittical Controls of Autonomous robots in the [Stochastic Robotics Lab](http://www.stochlab.com/) under the guidance of Prof. [Shishir N. Y. Kolathaya](http://www.shishirny.com/).
+I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical Systems(RBCCPS)](https://cps.iisc.ac.in/) in [Indian Institute of Science(IISc), Bangalore](http://iisc.ac.in/), working on Safety Critical Controls of Autonomous robots in the [Stochastic Robotics Lab](http://www.stochlab.com/) under the guidance of Prof. [Shishir N. Y. Kolathaya](http://www.shishirny.com/).
 
 <img align="center" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif">
 
