@@ -8,27 +8,28 @@ I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical System
 
 <img align="center" src="https://github.com/tayalmanan28/tayalmanan28/blob/main/robo.gif">
 
-- Currently, my work is focussed towards the development of Safety Critical Controls for Walking Robots locomtion and manipulation.
-- I completed my B.Tech in Mechanical Engineering from [Indian Institute of Technology Bombay(IITB)](https://www.iitb.ac.in/). 
-- I actively work in the fields of Robotics, Controls and Learning. 
-- In my undergraduate years, I have also worked on various robotics projects like control of Quadruped Bot, Force controlled gripper, FLORENCE (A Robotic Nurse), etc.
+- I work on problems at the intersection of **Control, Optimization, and Machine Learning**, with a focus on **safety-enforced decision-making in dynamical systems**.
+- I work on developing methods that integrate learning with **formal guarantees** to ensure constraint satisfaction and robust performance in uncertain, data-driven environments.
+- Previously, I completed my B.Tech from [Indian Institute of Technology Bombay(IITB)](https://www.iitb.ac.in/). 
+- In my undergraduate years, I had worked on various robotics projects like control of a custom made Quadruped root, Force controlled gripper, etc.
 
 
-
-**Contact Me**:
+## **Contact Me**:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manan-tayal/)
 [![website](https://img.shields.io/badge/website-red?style=for-the-badge&logo=Website&logoColor=white)](https://tayalmanan28.github.io)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=email&logoColor=white)](mailto:manantayal@iisc.ac.in)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robotics.tayalmanan@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tayalmanan28)
+[![X(Twitter)](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=X&logoColor=white)](https://x.com/tayalmanan28)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube&logoColor=white)]([#](https://www.youtube.com/@robotics-explained))
+[![Medium](https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@robotics-explained)
 
 
 
 ## 📈 Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=tayalmanan28&show_icons=true&theme=onedark">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tayalmanan28&theme=onedark">
   
 </p>
 
@@ -40,10 +41,11 @@ I am Manan, a Research Scholar at [Robert Bosch Centre for Cyber Physical System
 
 
 
-<p align="center">
-<!--   <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue"> -->
+<!-- <p align="center">
+   <img width="60%" src="https://activity-graph.herokuapp.com/graph?username=tayalmanan28&theme=rogue">
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tayalmanan28&layout=compact&theme=onedark">
-</p>
+</p> -->
 
-## Holopin Badges
-[![@tayalmanan28's Holopin board](https://holopin.io/api/user/board?user=tayalmanan28)](https://holopin.io/@tayalmanan28)
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=tayalmanan28&theme=onedark&no-frame=false&no-bg=true&margin-w=2)
+
